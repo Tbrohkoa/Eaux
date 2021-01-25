@@ -1,0 +1,4 @@
+X:\Steam\steamapps\common\RimWorld\Mods\Eaux\Common\Assemblies\Eaux.dll
+X:\Steam\steamapps\common\RimWorld\Mods\Eaux\Assemblies\Eaux.dll
+X:\Steam\steamapps\common\RimWorld\Mods\Eaux\Source\obj\Release\Eaux.csproj.CoreCompileInputs.cache
+X:\Steam\steamapps\common\RimWorld\Mods\Eaux\Source\obj\Release\Eaux.dll
